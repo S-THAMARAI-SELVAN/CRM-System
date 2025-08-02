@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: crm-backend-api
+    env: java
+    buildCommand: ./mvnw clean install -DskipTests
+    startCommand: java -Dserver.port=$PORT -Dspring.profiles.active=render -jar target/crm-backend-1.0.0.jar
+    healthCheckPath: /api/customers
+    envVars:
+      - key: SPRING_PROFILES_ACTIVE
+        value: render
+      - key: FRONTEND_URL
+        value: https://crm-system-frontend-bsx89x7g0-spartans1.vercel.app
