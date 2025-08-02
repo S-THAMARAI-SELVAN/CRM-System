@@ -1,0 +1,13 @@
+D:\project\spring-boot-app\backend\src\main\java\com\crm\CrmBackendApplication.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\model\Contact.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\model\Activity.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\model\Lead.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\repository\LeadRepository.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\model\Customer.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\repository\CustomerRepository.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\controller\DashboardController.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\repository\ActivityRepository.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\model\Opportunity.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\repository\OpportunityRepository.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\controller\CustomerController.java
+D:\project\spring-boot-app\backend\src\main\java\com\crm\repository\ContactRepository.java
