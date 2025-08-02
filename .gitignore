@@ -1,0 +1,19 @@
+# Ignore frontend dependencies and cache
+/frontend/node_modules/
+/frontend/.cache/
+
+/node_modules/
+/.cache/
+
+# Java target
+/target/
+/backend/target/
+/database/target/
+/src/target/
+
+/.vscode/
+/.idea/
+
+*.log
+*.iml
+.DS_Store
